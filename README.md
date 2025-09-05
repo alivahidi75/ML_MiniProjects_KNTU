@@ -32,7 +32,7 @@ This project covers foundational concepts of neural networks and reinforcement l
 3. Reinforcement Learning: An introduction to the concepts and simulation of Reinforcement Learning (RL), featuring the implementation of Q-Learning and Deep Q-Network (DQN) algorithms.
 
 ML_Final_Project: 
-"Semi-Supervised Fault Detection in Induction Motors"
+"Semi-Supervised Fault Detection in Induction Motors".
 This final project focuses on semi-supervised fault detection and classification in an induction motor using thermal imagery. 
 The simulation results indicate that the proposed method outperforms the FixMatch algorithm, a well-known semi-supervised learning technique. 
 Furthermore, the proposed approach demonstrates competitive accuracy when compared to fully-supervised methods, highlighting its effectiveness.
